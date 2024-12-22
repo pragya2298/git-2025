@@ -1,0 +1,12 @@
+branch commands:
+
+  192  git add .
+  193  git commit -m "all" .
+  194  git push origin master
+  195  git branch
+  196  git branch dev -- created new branch i.e. dev
+  197  git branch
+  198  git switch dev -- this commands is to switch one branch to another i.e. dev is new branch which i have taken here
+  199  pwd
+  200  ls
+  201  history
